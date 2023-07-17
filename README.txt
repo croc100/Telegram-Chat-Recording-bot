@@ -1,5 +1,4 @@
-Forty by CRODE
-crode.kr | croc
+Forty by croc100
 Available for personal use under the CRODE license policy.
 
 Description:
