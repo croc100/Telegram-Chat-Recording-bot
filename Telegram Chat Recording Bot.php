@@ -1,5 +1,5 @@
 <?php
-// Forty by croc
+// Forty by croc100
 
 
 // Telegram bot API token
